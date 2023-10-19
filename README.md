@@ -1,1 +1,12 @@
-[![I am invalid, and i know:](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+<h1 align="center">Hello there!, I am Platon, i know:</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,linux,py,discord,vscode,emacs,c,vim&theme=dark" />
+  </a>
+</p>
+<h1 align="center">Hello there!, I am Platon, i'm currently learning:</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,cpp,vue,bash,blender,emacs,java&theme=dark" />
+  </a>
+</p>
